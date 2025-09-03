@@ -1,4 +1,5 @@
 library(tidygeocoder)
+library(tidyverse)
 
 coord_df <- tibble(
   latitude = c(43.189521, 43.024872, 43.81121),

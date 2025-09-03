@@ -1,3 +1,5 @@
-### 1. Name: W. Abram Astl
-### 2. I have no pets, but I do enjoy the occasional good sandwich.
-### 3. Three favorite classes I have taken prior to UTK have been: Design Thinking, Big Data Programming, Applied Linear Regression
+### Stuff About Me
+
+1. Name: W. Abram Astle
+2. I have no pets, but I do enjoy the occasional good sandwich.
+3. Three favorite classes I have taken prior to UTK have been: Design Thinking, Big Data Programming, Applied Linear Regression

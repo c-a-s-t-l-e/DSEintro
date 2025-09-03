@@ -1,3 +1,7 @@
+# Name: W. Abram Astle 
+# Github Username: c-a-s-t-l-e
+# Fun Fact: I met my wife in a stats class.
+
 library(tidygeocoder)
 library(tidyverse)
 
